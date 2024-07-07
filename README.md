@@ -2,7 +2,7 @@
 <p>I am a frontend developer (React JS) with extensive experience building user-facing applications. Efficient and knowledgeable coder with skills in HTML, CSS, Tailwind CSS, and JavaScript programming languages. Efficient team player with React JS proficiencies and ability to work independently or as part of a team to complete development tasks.</p>
 
 
-- 👨‍💻 All of my projects are available at [https://abdussdev.com](https://abdussdev.com)
+- 👨‍💻 All of my projects are available at [https://abdussamad-cv.vercel.app/](https://abdussamad-cv.vercel.app/)
 
 - 📫 How to reach me **abdusjscript@gmail.com**
 
