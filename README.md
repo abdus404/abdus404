@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdus Samad</h1>
-<p>I am a frontend developer (React JS) with extensive experience building user-facing applications. Efficient and knowledgeable coder with skills in HTML, CSS, Tailwind CSS, and JavaScript programming languages. Efficient team player with React JS proficiencies and ability to work independently or as part of a team to complete development tasks.</p>
+<p>I am a full-stack developer (MERN) with extensive experience building user-facing
+applications. Efficient and knowledgeable coder with skills in HTML, CSS, Tailwind CSS,
+JavaScript, React JS, Next JS, Node JS, Express JS and MongoDB programming
+languages.</p>
 
 
 - 👨‍💻 All of my projects are available at [https://abdussamad-cv.vercel.app/](https://abdussamad-cv.vercel.app/)
